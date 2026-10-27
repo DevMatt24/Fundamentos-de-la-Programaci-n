@@ -1,0 +1,47 @@
+# 1.1 - ¿Qué es programar?
+
+## ¿Qué es un programa?
+
+Un **programa** es un conjunto de instrucciones que le indican a la computadora qué hacer, paso a paso. Esas instrucciones están escritas en un **lenguaje de programación**, que es una forma de comunicarnos con la máquina.
+
+Piensa en una receta de cocina: la receta le dice al cocinero qué ingredientes usar, en qué orden y qué hacer con cada uno. Un programa hace lo mismo, pero para la computadora.
+
+## ¿Qué es programar?
+
+**Programar** es el proceso de:
+
+1. **Entender un problema** (¿qué necesito resolver?)
+2. **Diseñar una solución** (¿cómo lo resuelvo paso a paso?)
+3. **Escribir las instrucciones** en un lenguaje de programación
+4. **Probar y corregir** (¿funciona como esperaba?)
+
+&gt; 💡 **Idea clave:** Programar no es solo escribir código. Es **resolver problemas**. El código es simplemente la forma de expresar la solución.
+
+## ¿Qué puede hacer un programa?
+
+- Realizar cálculos matemáticos
+- Tomar decisiones según condiciones
+- Repetir tareas muchas veces sin cansarse
+- Guardar y recuperar información
+- Comunicarse con el usuario y con otros programas
+
+## Ejemplo del mundo real
+
+**Problema:** Quiero saber si un número es par o impar.
+
+**Solución como programa:**
+1.Pedir un número al usuario
+2.Calcular el resto de dividirlo entre 2
+3.Si el resto es 0, mostrar "Es par"
+4.Si no, mostrar "Es impar"
+
+
+Eso es un programa: instrucciones claras, ordenadas y sin ambigüedad.
+
+## 📌 Resumen
+
+- Un **programa** es una lista de instrucciones para la computadora.
+- **Programar** es resolver problemas expresando la solución en un lenguaje que la máquina entienda.
+- La computadora hace **exactamente** lo que le dices: nada más, nada menos. Por eso las instrucciones deben ser precisas.
+
+➡️ Siguiente tema: [02 - Algoritmos](./02-algoritmos.md)
