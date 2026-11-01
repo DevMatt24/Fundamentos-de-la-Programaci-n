@@ -540,4 +540,4 @@ Finalmente, explica cómo relacionarías todas las partes para alcanzar el objet
 
 Un buen razonamiento comienza cuando dejamos de mirar el problema como una única dificultad y empezamos a comprender las partes que lo componen.
 
-➡️ **Siguiente tema:** [1.5 - Reconocimiento de patrones y abstracción](./05-patrones-y-abstraccion.md)
+➡️ **Siguiente tema:** [05 - Reconocimiento de patrones y abstracción](./05-reconocimiento-de-patrones-y-abstraccion.md)
