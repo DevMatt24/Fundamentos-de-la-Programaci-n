@@ -634,4 +634,4 @@ Finalmente, explica cómo organizarías los pasos para resolver el problema.
 
 No necesitas encontrar siempre la respuesta correcta al primer intento. Necesitas desarrollar un método para investigar, razonar, probar y mejorar tus soluciones.
 
-➡️ **Siguiente tema:** [0.4 - Descomposición de problemas: dividir para resolver](./04-descomposicion-de-problemas.md)
+➡️ **Siguiente tema:** [04 - Descomposición de problemas: dividir para resolver](./04-descomposicion-de-problemas.md)
