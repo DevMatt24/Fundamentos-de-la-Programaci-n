@@ -497,4 +497,4 @@ Intenta corregir el orden de las instrucciones.
 
 No necesitas comenzar escribiendo código complicado. Aprende a identificar problemas, dividirlos en pasos y comprobar tus soluciones. Esa habilidad será útil independientemente del lenguaje de programación que elijas.
 
-➡️ **Siguiente tema:** [03 - Lenguajes de programación](./03-lenguajes.md)
+➡️ **Siguiente tema:** [03 - Pensamiento Lógico](./03-pensamiento-logico.md)
