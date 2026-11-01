@@ -10,6 +10,6 @@ Al finalizar este módulo comprenderás qué es un programa, qué es un algoritm
 | --- | --- | --- |
 | 1.1 | ¿Qué es programar? | `01-que-es-programar.md` |
 | 1.2 | Algoritmos: el corazón de la programación | `02-algoritmos.md` |
-| 1.3 | Lenguajes de programación | `03-lenguajes.md` |
+| 1.3 | Pensamiento Logico | `03-Pensamiento-Logico.md` |
 | 1.4 | Cómo se ejecuta un programa | `04-como-se-ejecuta.md` |
 | 1.5 | Tu primer programa | `05-primer-programa.md` |
