@@ -1,4 +1,4 @@
-# 1.4 Descomposición de problemas: dividir para resolver
+# 1.4 -  Descomposición de problemas: dividir para resolver
 
 En el tema anterior aprendimos a utilizar el pensamiento lógico para analizar situaciones, identificar información, reconocer patrones y encontrar soluciones razonables.
 
